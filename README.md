@@ -15,6 +15,10 @@ which is consistent with the Delaunay triangulation applied by the scipy library
 ![image](examples/scipy_delaunay.png)
 
 
-In the current implementation it is possible to modify the following elements:
+
+In the current implementation is possible to modify the following elements:
 - minimum and maximum coordinates of the plane
 - number of points to generate
+
+
+Before running the code be sure to have installed are the ecessary libraries
